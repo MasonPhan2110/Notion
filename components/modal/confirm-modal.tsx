@@ -7,7 +7,7 @@ interface ConfirmModalProps {
     onConfirm: () => void
 }
 
-export const ConfrmModal = ({
+export const ConfirmModal = ({
     children,
     onConfirm
 }: ConfirmModalProps) => {
